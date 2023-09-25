@@ -6,6 +6,8 @@
 
 The Pattern Prediction Game is an interactive Python application that challenges players to predict the next number in a sequence based on various mathematical patterns. It's a fun and educational way to test and improve your pattern recognition skills. Whether you're a math enthusiast or just looking for an entertaining game, this project is for you!
 
+![Pattern Prediction Game Screenshot](screenshot.png)
+
 ## Features
 
 - **Diverse Patterns**: The game offers a variety of mathematical patterns, including increasing sequences, prime numbers, geometric progressions, and more.
@@ -23,10 +25,12 @@ The Pattern Prediction Game is an interactive Python application that challenges
    ```bash
    git clone https://github.com/Rahul5021/pattern-prediction-game.git
 2.Navigate to the Directory: Change your working directory to the cloned repository.
+    
     cd pattern-prediction-game
     
 3.Run the Game: Execute the Python script to start the game.
-  python pattern_game.py
+  
+     python pattern_game.py
 
 4.Guess the Next Number: Observe the current number sequence displayed on the screen. Enter your prediction for the next number in the sequence.
 
