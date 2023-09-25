@@ -24,32 +24,39 @@ The Pattern Prediction Game is an interactive Python application that challenges
 
    ```bash
    git clone https://github.com/Rahul5021/pattern-prediction-game.git
-2.Navigate to the Directory: Change your working directory to the cloned repository.
+### 2.Navigate to the Directory: Change your working directory to the cloned repository.
     
     cd pattern-prediction-game
     
-3.Run the Game: Execute the Python script to start the game.
+### 3.Run the Game: Execute the Python script to start the game.
   
      python pattern_game.py
 
-4.Guess the Next Number: Observe the current number sequence displayed on the screen. Enter your prediction for the next number in the sequence.
+### 4.Guess the Next Number: 
+   Observe the current number sequence displayed on the screen. Enter your prediction for the next number in the sequence.
 
-5.Check Your Prediction: Click the "Check Prediction" button to see if your guess is correct. You'll receive instant feedback.
+### 5.Check Your Prediction: 
+   Click the "Check Prediction" button to see if your guess is correct. You'll receive instant feedback.
 
-6.Repeat and Improve: Keep playing to test and improve your pattern recognition skills.
+### 6.Repeat and Improve: 
+   Keep playing to test and improve your pattern recognition skills.
 
-Contribution
-Contributions are welcome! If you'd like to improve the game, add new features, or fix issues, please fork the repository and create a pull request.
+## Contribution
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+   Contributions are welcome! If you'd like to improve the game, add new features, or fix issues, please fork the repository and create a pull request.
 
-Acknowledgments
-Special thanks to the Tkinter library for providing the user interface components.
-Inspiration for pattern ideas from various mathematical concepts.
+## License
 
-Author
-Rahul Agrawal
+   This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Acknowledgments
+   Special thanks to the Tkinter library for providing the user interface components.
+   Inspiration for pattern ideas from various mathematical concepts.
+
+### Author
+
+## Rahul Agrawal
+
+### Contact
+
 If you have any questions or suggestions, feel free to reach out to agrawal.rahul.1025@gmail.com .
